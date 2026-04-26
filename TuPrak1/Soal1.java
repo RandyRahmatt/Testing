@@ -1,5 +1,3 @@
-package TuPrak1;
-
 import java.util.Scanner;
 
 public class Soal1 {
