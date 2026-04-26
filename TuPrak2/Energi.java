@@ -1,3 +1,5 @@
+package TuPrak2;
+
 public class Energi {
     String tipe;
     int jumlahEnergi;

@@ -1,3 +1,5 @@
+package TuPrak2;
+
 import java.util.Random;
 
 public class KartuPokemon {
